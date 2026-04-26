@@ -173,7 +173,7 @@ nav{
 .course-btn{
     margin-top: 50px;
     padding: 15px;
-    margin-left: 45%;
+    margin-left: 43%;
     display: inline-block;
     background-color: #f99c23;
     text-decoration: none;
@@ -192,7 +192,7 @@ nav{
         flex-direction: column;
     }
     .center-btn{
-      margin-left: -10%;
+      margin-left: -20%;
        
     }
 }
@@ -358,7 +358,7 @@ nav{
 }
 .contect-us h1{
   padding-top: 40px;
-   padding-bottom: 20px;
+   padding-bottom: 30px;
      text-align: center;
       font-weight: 900;
       font-weight: 900;
@@ -367,11 +367,12 @@ nav{
    background-color: #f99c23;
    padding: 15px;
    color: white;
+   text-align: center;
    text-decoration: none;
    cursor: pointer;
    border-radius: 5px;
    margin-left: 45%;
-   margin-top: 200px;
+
    transition: 0.5s;
    text-align: center;
 }
@@ -386,7 +387,7 @@ nav{
         padding-top: 50px;
     }
     .contect-us a{
-        margin-left: 40%;
+        margin-left: 36%;
 
     }
 }
